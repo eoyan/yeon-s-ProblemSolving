@@ -1,6 +1,6 @@
 # [level 0] 문자열 반복해서 출력하기 - 181950 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/181950) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/181950#) 
 
 ### 성능 요약
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2025년 09월 18일 10:50:20
+2025년 09월 18일 10:52:04
 
 ### 문제 설명
 
